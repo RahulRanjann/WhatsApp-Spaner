@@ -17,7 +17,7 @@ The WhatsAppAuto Message Sender automates the process of sending messages on a m
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/RahulRanjann/WhatsApp-Spaner.git
    ```
 
 2. Navigate to the project directory:
